@@ -1,6 +1,6 @@
 package com.hiring.webhookapp.model;
 
-class GenerateWebhookResponse {
+public class GenerateWebhookResponse {
     private String webhook;
     private String accessToken;
 

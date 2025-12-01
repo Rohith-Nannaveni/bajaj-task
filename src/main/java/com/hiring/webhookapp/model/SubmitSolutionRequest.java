@@ -1,6 +1,6 @@
 package com.hiring.webhookapp.model;
 
-class SubmitSolutionRequest {
+public class SubmitSolutionRequest {
     private String finalQuery;
 
     public SubmitSolutionRequest() {}
